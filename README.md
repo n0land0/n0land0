@@ -1,11 +1,10 @@
 - 😄 Pronouns: he/him
 - 🔭 I recently worked on: [fact • distract](https://github.com/n0land0/fact-distract), [sniff](https://github.com/n0land0/sniff) / [sniff-api](https://github.com/n0land0/sniff-api), [CinemaCentral](https://github.com/anthony-iacono/cinema-central), [hötel for dögs](https://github.com/n0land0/overlook-hotel), [Gimme Some Oven](https://github.com/n0land0/whats-cookin)
 - 🌱 I’m currently learning: GSAP
-- 👯 I’m looking to collaborate on: fun side projects!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on: fun side projects, especially writing back ends & databases!
+- 💬 Ask me about: hip-hop, r&b, jazz fusion, reggae
+- ⚡ Previously: musician, audio engineer, light designer, history student
+- 📫 How to reach me: [email](mailto:nolancaine@gmail.com) || [LinkedIn](https://www.linkedin.com/in/nolancaine/)
 
 [![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0land0&theme=shades-of-purple)](https://github.com/n0land0/github-readme-stats)
 
@@ -50,8 +49,6 @@ border_radius - Corner rounding on the card_
 -->
 
 
-
-'linear-gradient(to right, #CE6A85, #5C374C);'
 
 <!--
 title_color - Card's title color (hex color)
