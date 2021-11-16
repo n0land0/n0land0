@@ -9,7 +9,7 @@
 - ⚡ Previously: musician, audio engineer, light designer, history student
 - 📫 How to reach me: [email](mailto:nolancaine@gmail.com) || [LinkedIn](https://www.linkedin.com/in/nolancaine/)
 
-[![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0land0&theme=shades-of-purple)](https://github.com/n0land0/github-readme-stats)
+[![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0land0&theme=shades-of-purple&custom_title=stats&layout=compact&hide_border=true)](https://github.com/n0land0/github-readme-stats)
 
 ## Technologies
 
