@@ -1,4 +1,4 @@
-# ![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) Hey, I'm Nolan. ![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width=50 height=50 /><img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width=50 height=50 /><img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width=50 height=50 /> Hey, I'm Nolan. <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width=50 height=50 /><img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width=50 height=50 /><img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width=50 height=50 />
 
 
 - 😄 Pronouns: he/him
