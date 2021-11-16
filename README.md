@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0land0)](https://github.com/n0land0/github-readme-stats)
+
+
 <!--
 **n0land0/n0land0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
