@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: he/him
 - 🔭 I recently worked on: [fact • distract](https://github.com/n0land0/fact-distract), [sniff](https://github.com/n0land0/sniff) / [sniff-api](https://github.com/n0land0/sniff-api), [CinemaCentral](https://github.com/anthony-iacono/cinema-central), [hötel for dögs](https://github.com/n0land0/overlook-hotel), [Gimme Some Oven](https://github.com/n0land0/whats-cookin)
-- 🌱 I’m currently learning: GSAP
+- 🌱 I’m currently learning: GraphQL/Apollo, TypeScript
 - 👯 I’m looking to collaborate on: fun side projects, especially writing back ends & databases!
 - 💬 Ask me about: hip-hop, r&b, jazz fusion, reggae
 - ⚡ Previously: musician, audio engineer, light designer, history student
@@ -29,6 +29,7 @@
 ### used a little
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![PostgresQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Knex]()
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
