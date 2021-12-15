@@ -2,7 +2,7 @@
 
 
 - 😄 Pronouns: he/him
-- 🔭 I recently worked on: [fact • distract](https://github.com/n0land0/fact-distract), [sniff](https://github.com/n0land0/sniff) / [sniff-api](https://github.com/n0land0/sniff-api), [CinemaCentral](https://github.com/anthony-iacono/cinema-central), [hötel for dögs](https://github.com/n0land0/overlook-hotel), [Gimme Some Oven](https://github.com/n0land0/whats-cookin)
+- 🔭 I recently worked on: [thumbtack](https://github.com/thumbtack-turing/), [fact • distract](https://github.com/n0land0/fact-distract), [sniff](https://github.com/n0land0/sniff) / [sniff-api](https://github.com/n0land0/sniff-api), [CinemaCentral](https://github.com/anthony-iacono/cinema-central), [hötel for dögs](https://github.com/n0land0/overlook-hotel), [Gimme Some Oven](https://github.com/n0land0/whats-cookin)
 - 🌱 I’m currently learning: Apollo Client, TypeScript
 - 👯 I’m looking to collaborate on: fun side projects, especially writing back ends & databases!
 - 💬 Ask me about: hip-hop, r&b, jazz fusion, reggae
