@@ -4,11 +4,11 @@
 - 😄 Pronouns: he/him
 - 🔭 I recently worked on: [thumbtack](https://github.com/thumbtack-turing/thumbtack_ui), [fact • distract](https://github.com/n0land0/fact-distract), [sniff](https://github.com/n0land0/sniff) / [sniff-api](https://github.com/n0land0/sniff-api), [CinemaCentral](https://github.com/anthony-iacono/cinema-central), [hötel for dögs](https://github.com/n0land0/overlook-hotel), [Gimme Some Oven](https://github.com/n0land0/whats-cookin)
 - 📖 I'm currently contributing to: [Spoke](https://github.com/MoveOnOrg/Spoke)
-- 🌱 I’m currently learning: Advanced Node/Express topics (TypeScript, sessions, OAuth, data modeling, GraphQL, sockets)
+- 🌱 I’m currently learning: Advanced Node/Express topics w/ TypeScript
 - 👯 I’m looking to collaborate on: fun side projects, especially writing back ends & databases!
 - 🔮 My next role should: have me working on full-stack codebases and/or sophisticated user interfaces
 - 💬 Ask me about: hip-hop, r&b, jazz fusion, reggae
-- ⚡ Previously: musician, audio engineer, light designer, history student
+- ⚡ Previously: audio engineer, musician, light designer, history student
 - 📫 How to reach me: [email](mailto:nolancaine@gmail.com) || [LinkedIn](https://www.linkedin.com/in/nolancaine/)
 
 [![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0land0&theme=shades-of-purple&custom_title=stats&layout=compact&hide_border=true)](https://github.com/n0land0/github-readme-stats)
