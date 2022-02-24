@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: NextJS
 - 👯 I’m looking to collaborate on: fun side projects, especially writing back ends & databases!
 - 🔮 My next role should: have me working on full-stack codebases and/or sophisticated user interfaces
-- 💬 Ask me about: hip-hop, r&b, jazz fusion, reggae
+- 💬 Ask me about: chess, hot sauce, ping pong, hip-hop, r&b, jazz fusion, reggae
 - ⚡ Previously: audio engineer, musician, light designer, history student
 - 📫 How to reach me: [email](mailto:nolancaine@gmail.com) || [LinkedIn](https://www.linkedin.com/in/nolancaine/)
 
