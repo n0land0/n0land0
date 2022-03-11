@@ -4,7 +4,7 @@
 - 😄 Pronouns: he/him
 - 🔭 I recently worked on: [thumbtack](https://github.com/thumbtack-turing/thumbtack_ui), [fact • distract](https://github.com/n0land0/fact-distract), [sniff](https://github.com/n0land0/sniff) / [sniff-api](https://github.com/n0land0/sniff-api), [CinemaCentral](https://github.com/anthony-iacono/cinema-central), [hötel for dögs](https://github.com/n0land0/overlook-hotel), [Gimme Some Oven](https://github.com/n0land0/whats-cookin)
 - 📖 I'm currently contributing to: [Spoke](https://github.com/MoveOnOrg/Spoke) (commits are mostly private/not visible here)
-- 🌱 I’m currently learning: NextJS
+- 🌱 I’m currently learning: TailwindCSS, testing with MSW/Jest/React Testing Library
 - 👯 I’m looking to collaborate on: fun side projects, especially writing back ends & databases!
 - 🔮 My next role should: have me working on full-stack codebases and/or sophisticated user interfaces
 - 💬 Ask me about: chess, hot sauce, ping pong, hip-hop, r&b, jazz fusion, reggae
