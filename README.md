@@ -2,11 +2,10 @@
 
 
 - 😄 Pronouns: he/him
-- 🔭 I recently worked on: [thumbtack](https://github.com/thumbtack-turing/thumbtack_ui), [fact • distract](https://github.com/n0land0/fact-distract), [sniff](https://github.com/n0land0/sniff) / [sniff-api](https://github.com/n0land0/sniff-api), [CinemaCentral](https://github.com/anthony-iacono/cinema-central), [hötel for dögs](https://github.com/n0land0/overlook-hotel), [Gimme Some Oven](https://github.com/n0land0/whats-cookin)
-- 📖 I'm currently contributing to: [Spoke](https://github.com/MoveOnOrg/Spoke), [ThePrepared](https://github.com/jfeldstein/the-prepared/) (commits are mostly private/not visible here)
-- 🌱 I’m currently learning: TailwindCSS, Storybook, testing with Jest/React Testing Library/MSW
-- 👯 I’m looking to collaborate on: fun side projects, especially writing back ends & databases!
-- 🔮 My next role should: have me working on full-stack codebases and/or sophisticated user interfaces
+- 🔭 I recently worked on: [Spoke](https://github.com/MoveOnOrg/Spoke), [ThePrepared](https://github.com/jfeldstein/the-prepared/), [thumbtack](https://github.com/thumbtack-turing/thumbtack_ui), [fact • distract](https://github.com/n0land0/fact-distract), [sniff](https://github.com/n0land0/sniff) / [sniff-api](https://github.com/n0land0/sniff-api), [CinemaCentral](https://github.com/anthony-iacono/cinema-central), [hötel for dögs](https://github.com/n0land0/overlook-hotel), [Gimme Some Oven](https://github.com/n0land0/whats-cookin)
+- 📖 I'm currently contributing to: Coalesce
+- 🌱 I’m currently learning: data warehousing
+- 👯 I’m looking to collaborate on: fun side projects!
 - 💬 Ask me about: chess, hot sauce, ping pong, hip-hop, r&b, jazz fusion, reggae
 - ⚡ Previously: audio engineer, musician, light designer, history student
 - 📫 How to reach me: [email](mailto:nolancaine@gmail.com) || [LinkedIn](https://www.linkedin.com/in/nolancaine/)
